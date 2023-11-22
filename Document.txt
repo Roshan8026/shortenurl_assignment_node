@@ -1,6 +1,16 @@
-# shortenurl_assignment_node
+URL Shortening Documents
 
-# Run Application with command 
+step 1.) Initialize Node.js Project
+
+step 2.) Install necessary dependencies like Express for the web server, and a data store of your choice 
+
+step 3.) Create Express App
+
+step 4.) Implement Endpoint for URL Shortening: with Logging and Error handling  and including Expiration of Shortened URLs (Optional)
+
+step 5.) Implement Redirect Functionality
+
+Run Application 
 
 1.) npm install 
 
