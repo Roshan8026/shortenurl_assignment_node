@@ -10,7 +10,11 @@
 
 4.)npm test  ( For Test case )
 
-5.) expiresAt DateTime Format 
+5.) Generate Shortened url using Post Method used below expiresAt Format 
+
+  http://localhost:3000/api/shorten
+
+6.) expiresAt DateTime Format 
 
 {
   "url": "https://www.example.com/very/long/url/path",
@@ -18,9 +22,6 @@
     "customAlias":"e3122"
 }
 
-6.) Generate Shortened url using post method
 
-http://localhost:3000/api/shorten
-
-2.) Redirect Url
-http://localhost:3000/sdrvuo
+7.) Redirect Url Get Method
+for example :-> http://localhost:3000/sdrvuo
